@@ -14,8 +14,8 @@ public class Sample {
 		user.sendKeys("subashgxy");
 		WebElement pass = face.findElement(By.id("pass"));
 		pass.sendKeys("12345");
-		//sample
-		// jujuju
+		//hgygyuhyu
+		///dfdgrhr
 		
 	}
 
